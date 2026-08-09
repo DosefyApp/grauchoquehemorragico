@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://www.dosefy.com.br/app/calculadoras/grauchoquehemorragico",
+      "permanent": true
+    }
+  ]
+}
